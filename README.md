@@ -1,10 +1,10 @@
 # DS Movie
 
-### Projeto desenvolvido para consolidar os conhecimentos de Spring Boot e React.
+#### Projeto desenvolvido para consolidar os conhecimentos de Spring Boot e React.
 
 ### 📚  Descrição
 
-Aplicação de avaliação de filmes.
+Aplicação de avaliação de filmes com integração de front e back.
 
 ### 🖥️  Recursos Utilizados
 
@@ -13,8 +13,7 @@ Aplicação de avaliação de filmes.
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
 
-&nbsp;
-
+#
 
 <div>
   <p align="left">
